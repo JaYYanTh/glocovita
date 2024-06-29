@@ -13,8 +13,8 @@ our project is "CREATING AN APP INTERFACE WHICH CAN COMMUNICATE WITH GLUCOMETRE 
 
 we used "FLUTTER" TO create this app interface
 we used repository called flutter-blue-plus to connect the glucometre device and app interface
-our project is not 100% succusful since flutter is updating dayby day... the syntaxes are changeing with every update
+our project is not 100% succusful since flutter is updating dayby day... the syntaxes are changing with every update
 
 
 
-*****************THNAK YOU FOR READING**************************
+*****************THANK YOU FOR READING**************************
